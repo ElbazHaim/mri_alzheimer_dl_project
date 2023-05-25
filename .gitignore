@@ -1,0 +1,5 @@
+.venv
+*.zip
+Alzheimer_s DataSet/*
+*.pyc
+*.DS*
